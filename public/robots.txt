@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://veloracafe.com/sitemap.xml
+
+# Velora Cafe & Restaurant Ventures
+# 24/7 Restaurant in Awka, Nigeria
